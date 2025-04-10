@@ -17,5 +17,5 @@
 Here's how to install **PIVolumeLib**!:
 
 ```bash
-Check the HOWTOINSTALL.md in the main directory.
+Check the HowToInstall.md in the main directory.
 ```
