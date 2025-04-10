@@ -14,7 +14,8 @@
 
 ## 📦 **Installation**
 
-You can install **PIVolumeLib** via pip (when published):
+Here's how to install **PIVolumeLib**!:
 
 ```bash
-pip install PIVolumeLib
+Check the HOWTOINSTALL.md in the main directory.
+```
